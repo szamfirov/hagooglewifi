@@ -4,7 +4,7 @@
     "config_flow": true,
     "documentation": "https://github.com/djtimca/hagooglewifi",
     "requirements": [
-      "googlewifi==0.0.18"
+      "googlewifi @ git+https://github.com/szamfirov/googlewifi-api.git@0.0.19"
     ],
     "issue_tracker": "https://github.com/djtimca/hagooglewifi/issues",
     "ssdp": [],
@@ -14,5 +14,5 @@
     "codeowners": [
       "@djtimca"
     ],
-    "version": "0.1.25"
+    "version": "0.1.26"
   }
